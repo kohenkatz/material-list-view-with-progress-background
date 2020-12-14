@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List View Progressbar Test</string>
+
+    <string name="mtrl_list_item_two_line">Two Line Item</string>
+    <string name="mtrl_list_item_secondary_text">Secondary Text</string>
+
+</resources>
